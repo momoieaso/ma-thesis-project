@@ -1,0 +1,162 @@
+[
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_en_response_en_en_perplexity.json",
+        "average_perplexity": 4.8547,
+        "std_dev_perplexity": 1.1489,
+        "cv_perplexity": "23.67%",
+        "average_loss": 1.5511,
+        "std_dev_loss": 0.243,
+        "cv_loss": "15.66%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_en_response_en_zh_perplexity.json",
+        "average_perplexity": 7.1684,
+        "std_dev_perplexity": 1.3338,
+        "cv_perplexity": "18.61%",
+        "average_loss": 1.9526,
+        "std_dev_loss": 0.1845,
+        "cv_loss": "9.45%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_en_response_zh_en_perplexity.json",
+        "average_perplexity": 5.065,
+        "std_dev_perplexity": 1.3777,
+        "cv_perplexity": "27.2%",
+        "average_loss": 1.5833,
+        "std_dev_loss": 0.2849,
+        "cv_loss": "17.99%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_en_response_zh_zh_perplexity.json",
+        "average_perplexity": 7.9638,
+        "std_dev_perplexity": 1.3973,
+        "cv_perplexity": "17.55%",
+        "average_loss": 2.06,
+        "std_dev_loss": 0.172,
+        "cv_loss": "8.35%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_zh_response_en_en_perplexity.json",
+        "average_perplexity": 5.0308,
+        "std_dev_perplexity": 1.1993,
+        "cv_perplexity": "23.84%",
+        "average_loss": 1.5863,
+        "std_dev_loss": 0.2453,
+        "cv_loss": "15.46%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_zh_response_en_zh_perplexity.json",
+        "average_perplexity": 6.876,
+        "std_dev_perplexity": 1.2691,
+        "cv_perplexity": "18.46%",
+        "average_loss": 1.9112,
+        "std_dev_loss": 0.1837,
+        "cv_loss": "9.61%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_zh_response_zh_en_perplexity.json",
+        "average_perplexity": 5.224,
+        "std_dev_perplexity": 1.4434,
+        "cv_perplexity": "27.63%",
+        "average_loss": 1.613,
+        "std_dev_loss": 0.2893,
+        "cv_loss": "17.94%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_en_zh_response_zh_zh_perplexity.json",
+        "average_perplexity": 7.6448,
+        "std_dev_perplexity": 1.3956,
+        "cv_perplexity": "18.26%",
+        "average_loss": 2.0179,
+        "std_dev_loss": 0.1788,
+        "cv_loss": "8.86%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_en_response_en_en_perplexity.json",
+        "average_perplexity": 5.6133,
+        "std_dev_perplexity": 1.5012,
+        "cv_perplexity": "26.74%",
+        "average_loss": 1.6877,
+        "std_dev_loss": 0.2784,
+        "cv_loss": "16.49%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_en_response_en_zh_perplexity.json",
+        "average_perplexity": 7.2095,
+        "std_dev_perplexity": 1.4383,
+        "cv_perplexity": "19.95%",
+        "average_loss": 1.9561,
+        "std_dev_loss": 0.1957,
+        "cv_loss": "10.01%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_en_response_zh_en_perplexity.json",
+        "average_perplexity": 5.5134,
+        "std_dev_perplexity": 1.5582,
+        "cv_perplexity": "28.26%",
+        "average_loss": 1.6638,
+        "std_dev_loss": 0.3022,
+        "cv_loss": "18.16%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_en_response_zh_zh_perplexity.json",
+        "average_perplexity": 6.9602,
+        "std_dev_perplexity": 1.2125,
+        "cv_perplexity": "17.42%",
+        "average_loss": 1.9255,
+        "std_dev_loss": 0.1706,
+        "cv_loss": "8.86%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_zh_response_en_en_perplexity.json",
+        "average_perplexity": 5.8938,
+        "std_dev_perplexity": 1.5743,
+        "cv_perplexity": "26.71%",
+        "average_loss": 1.7361,
+        "std_dev_loss": 0.2808,
+        "cv_loss": "16.17%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_zh_response_en_zh_perplexity.json",
+        "average_perplexity": 7.1826,
+        "std_dev_perplexity": 1.4286,
+        "cv_perplexity": "19.89%",
+        "average_loss": 1.9525,
+        "std_dev_loss": 0.1953,
+        "cv_loss": "10.0%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_zh_response_zh_en_perplexity.json",
+        "average_perplexity": 5.8494,
+        "std_dev_perplexity": 1.6739,
+        "cv_perplexity": "28.62%",
+        "average_loss": 1.7217,
+        "std_dev_loss": 0.3073,
+        "cv_loss": "17.85%"
+    },
+    {
+        "input_folder": "llama_results",
+        "file": "prompt_zh_zh_response_zh_zh_perplexity.json",
+        "average_perplexity": 6.9478,
+        "std_dev_perplexity": 1.1824,
+        "cv_perplexity": "17.02%",
+        "average_loss": 1.9244,
+        "std_dev_loss": 0.1665,
+        "cv_loss": "8.65%"
+    }
+]

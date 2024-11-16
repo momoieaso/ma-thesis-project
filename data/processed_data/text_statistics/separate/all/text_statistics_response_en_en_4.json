@@ -1,0 +1,602 @@
+[
+    {
+        "id": "p4-r1",
+        "word_count": 103,
+        "token_count": 119,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r2",
+        "word_count": 109,
+        "token_count": 126,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r3",
+        "word_count": 106,
+        "token_count": 123,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r4",
+        "word_count": 115,
+        "token_count": 128,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r5",
+        "word_count": 114,
+        "token_count": 128,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r6",
+        "word_count": 112,
+        "token_count": 128,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r7",
+        "word_count": 118,
+        "token_count": 135,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r8",
+        "word_count": 102,
+        "token_count": 119,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r9",
+        "word_count": 112,
+        "token_count": 131,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r10",
+        "word_count": 111,
+        "token_count": 126,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r11",
+        "word_count": 110,
+        "token_count": 128,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r12",
+        "word_count": 98,
+        "token_count": 114,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r13",
+        "word_count": 108,
+        "token_count": 126,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r14",
+        "word_count": 106,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r15",
+        "word_count": 125,
+        "token_count": 154,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r16",
+        "word_count": 102,
+        "token_count": 118,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r17",
+        "word_count": 123,
+        "token_count": 147,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r18",
+        "word_count": 104,
+        "token_count": 119,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r19",
+        "word_count": 106,
+        "token_count": 123,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r20",
+        "word_count": 107,
+        "token_count": 124,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r21",
+        "word_count": 108,
+        "token_count": 124,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r22",
+        "word_count": 104,
+        "token_count": 122,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r23",
+        "word_count": 101,
+        "token_count": 119,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r24",
+        "word_count": 130,
+        "token_count": 154,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r25",
+        "word_count": 103,
+        "token_count": 117,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r26",
+        "word_count": 124,
+        "token_count": 141,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r27",
+        "word_count": 101,
+        "token_count": 122,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r28",
+        "word_count": 100,
+        "token_count": 114,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r29",
+        "word_count": 111,
+        "token_count": 126,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r30",
+        "word_count": 116,
+        "token_count": 137,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r31",
+        "word_count": 105,
+        "token_count": 119,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r32",
+        "word_count": 103,
+        "token_count": 118,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r33",
+        "word_count": 114,
+        "token_count": 132,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r34",
+        "word_count": 120,
+        "token_count": 146,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r35",
+        "word_count": 101,
+        "token_count": 117,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r36",
+        "word_count": 120,
+        "token_count": 145,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r37",
+        "word_count": 100,
+        "token_count": 116,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r38",
+        "word_count": 109,
+        "token_count": 125,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r39",
+        "word_count": 106,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r40",
+        "word_count": 108,
+        "token_count": 130,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r41",
+        "word_count": 108,
+        "token_count": 126,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r42",
+        "word_count": 120,
+        "token_count": 136,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r43",
+        "word_count": 109,
+        "token_count": 127,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r44",
+        "word_count": 103,
+        "token_count": 118,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r45",
+        "word_count": 100,
+        "token_count": 117,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r46",
+        "word_count": 112,
+        "token_count": 126,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r47",
+        "word_count": 111,
+        "token_count": 127,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r48",
+        "word_count": 117,
+        "token_count": 133,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r49",
+        "word_count": 127,
+        "token_count": 144,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r50",
+        "word_count": 99,
+        "token_count": 114,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r51",
+        "word_count": 109,
+        "token_count": 122,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r52",
+        "word_count": 122,
+        "token_count": 138,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r53",
+        "word_count": 106,
+        "token_count": 120,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r54",
+        "word_count": 104,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r55",
+        "word_count": 115,
+        "token_count": 130,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r56",
+        "word_count": 103,
+        "token_count": 119,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r57",
+        "word_count": 124,
+        "token_count": 152,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r58",
+        "word_count": 103,
+        "token_count": 118,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r59",
+        "word_count": 103,
+        "token_count": 118,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r60",
+        "word_count": 112,
+        "token_count": 128,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r61",
+        "word_count": 125,
+        "token_count": 145,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r62",
+        "word_count": 109,
+        "token_count": 124,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r63",
+        "word_count": 111,
+        "token_count": 128,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r64",
+        "word_count": 106,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r65",
+        "word_count": 127,
+        "token_count": 151,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r66",
+        "word_count": 115,
+        "token_count": 134,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r67",
+        "word_count": 114,
+        "token_count": 136,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r68",
+        "word_count": 105,
+        "token_count": 120,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r69",
+        "word_count": 103,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r70",
+        "word_count": 117,
+        "token_count": 133,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r71",
+        "word_count": 104,
+        "token_count": 123,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r72",
+        "word_count": 103,
+        "token_count": 117,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r73",
+        "word_count": 126,
+        "token_count": 148,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r74",
+        "word_count": 143,
+        "token_count": 163,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r75",
+        "word_count": 112,
+        "token_count": 128,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r76",
+        "word_count": 111,
+        "token_count": 129,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r77",
+        "word_count": 113,
+        "token_count": 130,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r78",
+        "word_count": 123,
+        "token_count": 140,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r79",
+        "word_count": 105,
+        "token_count": 124,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r80",
+        "word_count": 94,
+        "token_count": 110,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r81",
+        "word_count": 106,
+        "token_count": 132,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r82",
+        "word_count": 107,
+        "token_count": 127,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r83",
+        "word_count": 107,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r84",
+        "word_count": 107,
+        "token_count": 122,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r85",
+        "word_count": 111,
+        "token_count": 129,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r86",
+        "word_count": 119,
+        "token_count": 145,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r87",
+        "word_count": 116,
+        "token_count": 141,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r88",
+        "word_count": 112,
+        "token_count": 130,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r89",
+        "word_count": 116,
+        "token_count": 136,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r90",
+        "word_count": 117,
+        "token_count": 143,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r91",
+        "word_count": 116,
+        "token_count": 133,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r92",
+        "word_count": 100,
+        "token_count": 115,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r93",
+        "word_count": 118,
+        "token_count": 132,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r94",
+        "word_count": 106,
+        "token_count": 121,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r95",
+        "word_count": 99,
+        "token_count": 114,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r96",
+        "word_count": 113,
+        "token_count": 129,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r97",
+        "word_count": 106,
+        "token_count": 122,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r98",
+        "word_count": 122,
+        "token_count": 148,
+        "sentence_count": 3
+    },
+    {
+        "id": "p4-r99",
+        "word_count": 107,
+        "token_count": 124,
+        "sentence_count": 4
+    },
+    {
+        "id": "p4-r100",
+        "word_count": 128,
+        "token_count": 148,
+        "sentence_count": 3
+    }
+]

@@ -1,0 +1,5 @@
+File Name,Average Before Proportion,Std Dev Before,CV Before,Average After Proportion,Std Dev After,CV After
+dependency_parsing_response_en_en.xml,0.4468,0.0365,8.16%,0.5532,0.0365,6.59%
+dependency_parsing_response_en_zh.xml,0.6218,0.0518,8.33%,0.3782,0.0518,13.69%
+dependency_parsing_response_zh_en.xml,0.4404,0.0347,7.89%,0.5596,0.0347,6.21%
+dependency_parsing_response_zh_zh.xml,0.6240,0.0538,8.63%,0.3760,0.0538,14.32%

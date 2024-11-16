@@ -1,0 +1,26 @@
+[
+    {
+        "file_name": "dependency_parsing_response_en_en.xml",
+        "avg_distance": 3.1059,
+        "std_dev": 0.2786,
+        "cv": "8.97%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh.xml",
+        "avg_distance": 3.8987,
+        "std_dev": 0.4998,
+        "cv": "12.82%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en.xml",
+        "avg_distance": 3.045,
+        "std_dev": 0.269,
+        "cv": "8.84%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh.xml",
+        "avg_distance": 3.9121,
+        "std_dev": 0.5663,
+        "cv": "14.48%"
+    }
+]

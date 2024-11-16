@@ -1,0 +1,134 @@
+input_folder,file,average_perplexity,std_dev_perplexity,cv_perplexity,average_loss,std_dev_loss,cv_loss
+
+-----------------------------------------------------------------------------------------------------
+
+## corresponding prompt-response ppl results
+
+llama_results,prompt_en_en_response_en_en_perplexity.json,4.8547,1.1489,23.67%,1.5511,0.243,15.66%
+llama_results,prompt_zh_en_response_zh_en_perplexity.json,5.5134,1.5582,28.26%,1.6638,0.3022,18.16%
+llama_results,prompt_en_zh_response_en_zh_perplexity.json,6.876,1.2691,18.46%,1.9112,0.1837,9.61%
+llama_results,prompt_zh_zh_response_zh_zh_perplexity.json,6.9478,1.1824,17.02%,1.9244,0.1665,8.65%
+
+qwen_results,prompt_en_en_response_en_en_perplexity.json,3.7796,0.9599,25.4%,1.298,0.2517,19.39%
+qwen_results,prompt_zh_en_response_zh_en_perplexity.json,3.7599,0.9817,26.11%,1.2902,0.2631,20.39%
+qwen_results,prompt_en_zh_response_en_zh_perplexity.json,6.467,2.7881,43.11%,1.7791,0.4173,23.45%
+qwen_results,prompt_zh_zh_response_zh_zh_perplexity.json,5.0593,1.5791,31.21%,1.5718,0.3174,20.19%
+
+# ppl_1 < ppl_3 and ppl_2 < ppl_4 and ppl_5 < ppl_7 and ppl_6 < ppl_8 
+--→ the English responses are of higher quality regardless of the model used in the analysis of perplexity and loss
+--→ English resposnes from the GPT model are of higher syntactic quality than Chinese responses 
+
+# (avg) ppl_1 < ppl_2 and ppl_3 < ppl_4 but ppl_6 < ppl_5 and ppl_8 < ppl_7 (to be more specific (avg) ppl_1 much lower than ppl_2 but ppl_6 a little lower than ppl_5 and ppl_3 a little lower than ppl_4 but ppl_8 much lower than ppl_7)
+--→ ? llama model better understands English prompts and generates responses of higher quality while qwen model can better understand Chinese prompts and generate responses of higher quality 
+--→ ? Chinese prompts result in more Chinese-like responses and English prompts result in more English-like responses
+--→ but two variables for each pair: not too reliable
+--→ to be examined by more comparison in the following
+
+
+
+# all the average loss of qwen are lower than those of llama but all the cv loss of qwen are higher than those of llama
+--→ larger size of model decreases the perplexity but also decreases the stability? 
+
+# for llama results: avg loss larger but cv loss lower in zh responses: why? lower resource? 
+
+-----------------------------------------------------------------------------------------------------
+
+## same prompt + response in the same language generated from different promot language
+# exclude the influence of prompt and compare the responses of GPT model 
+
+llama_results,prompt_en_en_response_en_en_perplexity.json,4.8547,1.1489,23.67%,1.5511,0.243,15.66%
+llama_results,prompt_en_en_response_zh_en_perplexity.json,5.065,1.3777,27.2%,1.5833,0.2849,17.99%
+
+qwen_results,prompt_en_en_response_en_en_perplexity.json,3.7796,0.9599,25.4%,1.298,0.2517,19.39%
+qwen_results,prompt_en_en_response_zh_en_perplexity.json,4.184,1.3117,31.35%,1.381,0.3208,23.23%
+
+--→ Chinese prompts make the English responses more Chinese-like 
+
+--→ the qwen model generate English responses closer to the GPT model ×
+
+
+llama_results,prompt_zh_zh_response_zh_zh_perplexity.json,6.9478,1.1824,17.02%,1.9244,0.1665,8.65%
+llama_results,prompt_zh_zh_response_en_zh_perplexity.json,7.1826,1.4286,19.89%,1.9525,0.1953,10.0%
+
+qwen_results,prompt_zh_zh_response_zh_zh_perplexity.json,5.0593,1.5791,31.21%,1.5718,0.3174,20.19%
+qwen_results,prompt_zh_zh_response_en_zh_perplexity.json,5.8979,2.3158,39.27%,1.6979,0.395,23.26%
+
+--→ English prompts make the Chinese responses more English-like 
+
+--→ the qwen model generate Chinese responses closer to the GPT model ×
+* for qwen results difference much larger than that of other groups/pairs ×
+* for llama resuluts cv loss much lower ×
+
+
+llama_results,prompt_zh_en_response_zh_en_perplexity.json,5.5134,1.5582,28.26%,1.6638,0.3022,18.16%
+llama_results,prompt_zh_en_response_en_en_perplexity.json,5.6133,1.5012,26.74%,1.6877,0.2784,16.49%
+
+qwen_results,prompt_zh_en_response_zh_en_perplexity.json,3.7599,0.9817,26.11%,1.2902,0.2631,20.39%
+qwen_results,prompt_zh_en_response_en_en_perplexity.json,3.997,0.987,24.69%,1.3554,0.2465,18.18%
+
+--→ Chinese prompts do not make the English responses more Chinese-like / or guess: Chinese prompts make all the responses of the three models more Chinese-like 
+--→ the qwen model generate English responses closer to the GPT model
+
+
+
+llama_results,prompt_en_zh_response_en_zh_perplexity.json,6.876,1.2691,18.46%,1.9112,0.1837,9.61%
+llama_results,prompt_en_zh_response_zh_zh_perplexity.json,7.6448,1.3956,18.26%,2.0179,0.1788,8.86%
+
+qwen_results,prompt_en_zh_response_en_zh_perplexity.json,6.467,2.7881,43.11%,1.7791,0.4173,23.45%
+qwen_results,prompt_en_zh_response_zh_zh_perplexity.json,7.3271,3.1186,42.56%,1.9014,0.4284,22.53%
+
+--→ English prompts do not make the English responses more English-like / or guess: English prompts make all the responses of the three models more English-like 
+--→ the qwen model generate Chinese responses closer to the GPT model
+* difference much larger than that of other groups/pairs
+* for llama resuluts cv loss much lower
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+## same response + prompt in different languages but the requirements of the response language is the same as that of the response
+
+llama_results,prompt_en_en_response_en_en_perplexity.json,4.8547,1.1489,23.67%,1.5511,0.243,15.66%
+llama_results,prompt_zh_en_response_en_en_perplexity.json,5.6133,1.5012,26.74%,1.6877,0.2784,16.49%
+
+llama_results,prompt_zh_en_response_zh_en_perplexity.json,5.5134,1.5582,28.26%,1.6638,0.3022,18.16%
+llama_results,prompt_en_en_response_zh_en_perplexity.json,5.065,1.3777,27.2%,1.5833,0.2849,17.99%
+
+llama_results,prompt_zh_zh_response_zh_zh_perplexity.json,6.9478,1.1824,17.02%,1.9244,0.1665,8.65%
+llama_results,prompt_en_zh_response_zh_zh_perplexity.json,7.6448,1.3956,18.26%,2.0179,0.1788,8.86%
+
+--→ with English prompts llama model generate more English-like response
+--→ with Chinese prompts llama model generate more Chinese-like response
+
+
+
+llama_results,prompt_en_zh_response_en_zh_perplexity.json,6.876,1.2691,18.46%,1.9112,0.1837,9.61%
+llama_results,prompt_zh_zh_response_en_zh_perplexity.json,7.1826,1.4286,19.89%,1.9525,0.1953,10.0%
+
+--→ exception
+
+
+
+qwen_results,prompt_en_en_response_en_en_perplexity.json,3.7796,0.9599,25.4%,1.298,0.2517,19.39%
+qwen_results,prompt_zh_en_response_en_en_perplexity.json,3.997,0.987,24.69%,1.3554,0.2465,18.18%
+
+qwen_results,prompt_en_zh_response_en_zh_perplexity.json,6.467,2.7881,43.11%,1.7791,0.4173,23.45%
+qwen_results,prompt_zh_zh_response_en_zh_perplexity.json,5.8979,2.3158,39.27%,1.6979,0.395,23.26%
+
+qwen_results,prompt_zh_zh_response_zh_zh_perplexity.json,5.0593,1.5791,31.21%,1.5718,0.3174,20.19%
+qwen_results,prompt_en_zh_response_zh_zh_perplexity.json,7.3271,3.1186,42.56%,1.9014,0.4284,22.53%
+
+--→ with Chinese prompts qwen model generate more Chinese-like response
+--→ with English prompts qwen model generate more English-like response
+
+
+
+qwen_results,prompt_zh_en_response_zh_en_perplexity.json,3.7599,0.9817,26.11%,1.2902,0.2631,20.39%
+qwen_results,prompt_en_en_response_zh_en_perplexity.json,4.184,1.3117,31.35%,1.381,0.3208,23.23%
+
+--→ exception
+
+

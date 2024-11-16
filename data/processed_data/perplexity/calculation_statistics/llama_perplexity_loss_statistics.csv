@@ -1,0 +1,17 @@
+input_folder,file,average_perplexity,std_dev_perplexity,cv_perplexity,average_loss,std_dev_loss,cv_loss
+llama_results,prompt_en_en_response_en_en_perplexity.json,4.8547,1.1489,23.67%,1.5511,0.243,15.66%
+llama_results,prompt_en_en_response_en_zh_perplexity.json,7.1684,1.3338,18.61%,1.9526,0.1845,9.45%
+llama_results,prompt_en_en_response_zh_en_perplexity.json,5.065,1.3777,27.2%,1.5833,0.2849,17.99%
+llama_results,prompt_en_en_response_zh_zh_perplexity.json,7.9638,1.3973,17.55%,2.06,0.172,8.35%
+llama_results,prompt_en_zh_response_en_en_perplexity.json,5.0308,1.1993,23.84%,1.5863,0.2453,15.46%
+llama_results,prompt_en_zh_response_en_zh_perplexity.json,6.876,1.2691,18.46%,1.9112,0.1837,9.61%
+llama_results,prompt_en_zh_response_zh_en_perplexity.json,5.224,1.4434,27.63%,1.613,0.2893,17.94%
+llama_results,prompt_en_zh_response_zh_zh_perplexity.json,7.6448,1.3956,18.26%,2.0179,0.1788,8.86%
+llama_results,prompt_zh_en_response_en_en_perplexity.json,5.6133,1.5012,26.74%,1.6877,0.2784,16.49%
+llama_results,prompt_zh_en_response_en_zh_perplexity.json,7.2095,1.4383,19.95%,1.9561,0.1957,10.01%
+llama_results,prompt_zh_en_response_zh_en_perplexity.json,5.5134,1.5582,28.26%,1.6638,0.3022,18.16%
+llama_results,prompt_zh_en_response_zh_zh_perplexity.json,6.9602,1.2125,17.42%,1.9255,0.1706,8.86%
+llama_results,prompt_zh_zh_response_en_en_perplexity.json,5.8938,1.5743,26.71%,1.7361,0.2808,16.17%
+llama_results,prompt_zh_zh_response_en_zh_perplexity.json,7.1826,1.4286,19.89%,1.9525,0.1953,10.0%
+llama_results,prompt_zh_zh_response_zh_en_perplexity.json,5.8494,1.6739,28.62%,1.7217,0.3073,17.85%
+llama_results,prompt_zh_zh_response_zh_zh_perplexity.json,6.9478,1.1824,17.02%,1.9244,0.1665,8.65%

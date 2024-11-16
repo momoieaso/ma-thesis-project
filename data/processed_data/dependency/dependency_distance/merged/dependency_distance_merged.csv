@@ -1,0 +1,5 @@
+File Name,Average Dependency Distance,Standard Deviation,Coefficient of Variation (CV)
+dependency_parsing_response_en_en.xml,3.1059,0.2786,8.97%
+dependency_parsing_response_en_zh.xml,3.8987,0.4998,12.82%
+dependency_parsing_response_zh_en.xml,3.0450,0.2690,8.84%
+dependency_parsing_response_zh_zh.xml,3.9121,0.5663,14.48%

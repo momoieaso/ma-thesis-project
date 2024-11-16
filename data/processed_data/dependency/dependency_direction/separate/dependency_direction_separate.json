@@ -1,0 +1,362 @@
+[
+    {
+        "file_name": "dependency_parsing_response_en_en_1.xml",
+        "avg_before_proportion": 0.4401,
+        "std_dev_before": 0.0269,
+        "cv_before": "6.11%",
+        "avg_after_proportion": 0.5599,
+        "std_dev_after": 0.0269,
+        "cv_after": "4.81%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_2.xml",
+        "avg_before_proportion": 0.4957,
+        "std_dev_before": 0.0222,
+        "cv_before": "4.48%",
+        "avg_after_proportion": 0.5043,
+        "std_dev_after": 0.0222,
+        "cv_after": "4.4%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_3.xml",
+        "avg_before_proportion": 0.4775,
+        "std_dev_before": 0.0232,
+        "cv_before": "4.87%",
+        "avg_after_proportion": 0.5225,
+        "std_dev_after": 0.0232,
+        "cv_after": "4.45%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_4.xml",
+        "avg_before_proportion": 0.4505,
+        "std_dev_before": 0.0296,
+        "cv_before": "6.56%",
+        "avg_after_proportion": 0.5495,
+        "std_dev_after": 0.0296,
+        "cv_after": "5.38%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_5.xml",
+        "avg_before_proportion": 0.4531,
+        "std_dev_before": 0.0257,
+        "cv_before": "5.67%",
+        "avg_after_proportion": 0.5469,
+        "std_dev_after": 0.0257,
+        "cv_after": "4.7%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_6.xml",
+        "avg_before_proportion": 0.4138,
+        "std_dev_before": 0.0339,
+        "cv_before": "8.2%",
+        "avg_after_proportion": 0.5862,
+        "std_dev_after": 0.0339,
+        "cv_after": "5.79%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_7.xml",
+        "avg_before_proportion": 0.4305,
+        "std_dev_before": 0.0304,
+        "cv_before": "7.06%",
+        "avg_after_proportion": 0.5695,
+        "std_dev_after": 0.0304,
+        "cv_after": "5.33%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_8.xml",
+        "avg_before_proportion": 0.4406,
+        "std_dev_before": 0.026,
+        "cv_before": "5.89%",
+        "avg_after_proportion": 0.5594,
+        "std_dev_after": 0.026,
+        "cv_after": "4.64%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_9.xml",
+        "avg_before_proportion": 0.4233,
+        "std_dev_before": 0.0296,
+        "cv_before": "6.99%",
+        "avg_after_proportion": 0.5767,
+        "std_dev_after": 0.0296,
+        "cv_after": "5.13%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_en_10.xml",
+        "avg_before_proportion": 0.4425,
+        "std_dev_before": 0.0314,
+        "cv_before": "7.1%",
+        "avg_after_proportion": 0.5575,
+        "std_dev_after": 0.0314,
+        "cv_after": "5.64%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_1.xml",
+        "avg_before_proportion": 0.5757,
+        "std_dev_before": 0.0391,
+        "cv_before": "6.79%",
+        "avg_after_proportion": 0.4243,
+        "std_dev_after": 0.0391,
+        "cv_after": "9.21%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_2.xml",
+        "avg_before_proportion": 0.6333,
+        "std_dev_before": 0.0422,
+        "cv_before": "6.66%",
+        "avg_after_proportion": 0.3667,
+        "std_dev_after": 0.0422,
+        "cv_after": "11.5%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_3.xml",
+        "avg_before_proportion": 0.656,
+        "std_dev_before": 0.0328,
+        "cv_before": "4.99%",
+        "avg_after_proportion": 0.344,
+        "std_dev_after": 0.0328,
+        "cv_after": "9.52%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_4.xml",
+        "avg_before_proportion": 0.604,
+        "std_dev_before": 0.0361,
+        "cv_before": "5.98%",
+        "avg_after_proportion": 0.396,
+        "std_dev_after": 0.0361,
+        "cv_after": "9.12%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_5.xml",
+        "avg_before_proportion": 0.6247,
+        "std_dev_before": 0.0432,
+        "cv_before": "6.91%",
+        "avg_after_proportion": 0.3753,
+        "std_dev_after": 0.0432,
+        "cv_after": "11.5%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_6.xml",
+        "avg_before_proportion": 0.5573,
+        "std_dev_before": 0.0396,
+        "cv_before": "7.11%",
+        "avg_after_proportion": 0.4427,
+        "std_dev_after": 0.0396,
+        "cv_after": "8.94%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_7.xml",
+        "avg_before_proportion": 0.6645,
+        "std_dev_before": 0.0407,
+        "cv_before": "6.13%",
+        "avg_after_proportion": 0.3355,
+        "std_dev_after": 0.0407,
+        "cv_after": "12.14%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_8.xml",
+        "avg_before_proportion": 0.6281,
+        "std_dev_before": 0.0382,
+        "cv_before": "6.08%",
+        "avg_after_proportion": 0.3719,
+        "std_dev_after": 0.0382,
+        "cv_after": "10.27%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_9.xml",
+        "avg_before_proportion": 0.6618,
+        "std_dev_before": 0.0413,
+        "cv_before": "6.24%",
+        "avg_after_proportion": 0.3382,
+        "std_dev_after": 0.0413,
+        "cv_after": "12.2%"
+    },
+    {
+        "file_name": "dependency_parsing_response_en_zh_10.xml",
+        "avg_before_proportion": 0.6126,
+        "std_dev_before": 0.0377,
+        "cv_before": "6.15%",
+        "avg_after_proportion": 0.3874,
+        "std_dev_after": 0.0377,
+        "cv_after": "9.73%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_1.xml",
+        "avg_before_proportion": 0.4177,
+        "std_dev_before": 0.0258,
+        "cv_before": "6.18%",
+        "avg_after_proportion": 0.5823,
+        "std_dev_after": 0.0258,
+        "cv_after": "4.43%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_2.xml",
+        "avg_before_proportion": 0.4775,
+        "std_dev_before": 0.0281,
+        "cv_before": "5.88%",
+        "avg_after_proportion": 0.5225,
+        "std_dev_after": 0.0281,
+        "cv_after": "5.37%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_3.xml",
+        "avg_before_proportion": 0.4573,
+        "std_dev_before": 0.025,
+        "cv_before": "5.46%",
+        "avg_after_proportion": 0.5427,
+        "std_dev_after": 0.025,
+        "cv_after": "4.6%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_4.xml",
+        "avg_before_proportion": 0.4196,
+        "std_dev_before": 0.0214,
+        "cv_before": "5.1%",
+        "avg_after_proportion": 0.5804,
+        "std_dev_after": 0.0214,
+        "cv_after": "3.69%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_5.xml",
+        "avg_before_proportion": 0.4388,
+        "std_dev_before": 0.0323,
+        "cv_before": "7.37%",
+        "avg_after_proportion": 0.5612,
+        "std_dev_after": 0.0323,
+        "cv_after": "5.76%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_6.xml",
+        "avg_before_proportion": 0.4173,
+        "std_dev_before": 0.0341,
+        "cv_before": "8.17%",
+        "avg_after_proportion": 0.5827,
+        "std_dev_after": 0.0341,
+        "cv_after": "5.85%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_7.xml",
+        "avg_before_proportion": 0.4404,
+        "std_dev_before": 0.0318,
+        "cv_before": "7.22%",
+        "avg_after_proportion": 0.5596,
+        "std_dev_after": 0.0318,
+        "cv_after": "5.68%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_8.xml",
+        "avg_before_proportion": 0.439,
+        "std_dev_before": 0.0274,
+        "cv_before": "6.24%",
+        "avg_after_proportion": 0.561,
+        "std_dev_after": 0.0274,
+        "cv_after": "4.88%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_9.xml",
+        "avg_before_proportion": 0.4404,
+        "std_dev_before": 0.0317,
+        "cv_before": "7.2%",
+        "avg_after_proportion": 0.5596,
+        "std_dev_after": 0.0317,
+        "cv_after": "5.67%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_en_10.xml",
+        "avg_before_proportion": 0.4559,
+        "std_dev_before": 0.0342,
+        "cv_before": "7.5%",
+        "avg_after_proportion": 0.5441,
+        "std_dev_after": 0.0342,
+        "cv_after": "6.28%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_1.xml",
+        "avg_before_proportion": 0.5952,
+        "std_dev_before": 0.0406,
+        "cv_before": "6.82%",
+        "avg_after_proportion": 0.4048,
+        "std_dev_after": 0.0406,
+        "cv_after": "10.03%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_2.xml",
+        "avg_before_proportion": 0.6101,
+        "std_dev_before": 0.0347,
+        "cv_before": "5.69%",
+        "avg_after_proportion": 0.3899,
+        "std_dev_after": 0.0347,
+        "cv_after": "8.9%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_3.xml",
+        "avg_before_proportion": 0.6535,
+        "std_dev_before": 0.0361,
+        "cv_before": "5.52%",
+        "avg_after_proportion": 0.3465,
+        "std_dev_after": 0.0361,
+        "cv_after": "10.42%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_4.xml",
+        "avg_before_proportion": 0.6108,
+        "std_dev_before": 0.0393,
+        "cv_before": "6.43%",
+        "avg_after_proportion": 0.3892,
+        "std_dev_after": 0.0393,
+        "cv_after": "10.1%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_5.xml",
+        "avg_before_proportion": 0.6228,
+        "std_dev_before": 0.0382,
+        "cv_before": "6.13%",
+        "avg_after_proportion": 0.3772,
+        "std_dev_after": 0.0382,
+        "cv_after": "10.13%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_6.xml",
+        "avg_before_proportion": 0.5421,
+        "std_dev_before": 0.0401,
+        "cv_before": "7.4%",
+        "avg_after_proportion": 0.4579,
+        "std_dev_after": 0.0401,
+        "cv_after": "8.76%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_7.xml",
+        "avg_before_proportion": 0.6592,
+        "std_dev_before": 0.0399,
+        "cv_before": "6.05%",
+        "avg_after_proportion": 0.3408,
+        "std_dev_after": 0.0399,
+        "cv_after": "11.7%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_8.xml",
+        "avg_before_proportion": 0.6654,
+        "std_dev_before": 0.037,
+        "cv_before": "5.56%",
+        "avg_after_proportion": 0.3346,
+        "std_dev_after": 0.037,
+        "cv_after": "11.05%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_9.xml",
+        "avg_before_proportion": 0.6642,
+        "std_dev_before": 0.0443,
+        "cv_before": "6.67%",
+        "avg_after_proportion": 0.3358,
+        "std_dev_after": 0.0443,
+        "cv_after": "13.18%"
+    },
+    {
+        "file_name": "dependency_parsing_response_zh_zh_10.xml",
+        "avg_before_proportion": 0.6169,
+        "std_dev_before": 0.0436,
+        "cv_before": "7.06%",
+        "avg_after_proportion": 0.3831,
+        "std_dev_after": 0.0436,
+        "cv_after": "11.37%"
+    }
+]
